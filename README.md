@@ -310,7 +310,9 @@ ___Example HTTP API Response___
 }
 ```
 
+### Resources
 
+Included in this repository are two alternative implementations of the Australian Ad Observatory API. The first is a basic Jupyter Notebook example written in Python (see the _jupyter_example_ folder); the second is a test Python file entitled _test.py_. Both files implement the full functionality of the API.
 
 ### Further Questions
 
